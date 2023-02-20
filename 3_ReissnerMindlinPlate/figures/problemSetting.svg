@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="problemSetting.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="C:\Interactive_Teaching_Material\AdvancedFiniteElementMethods\2_ReissnerMindlinPlate\figures\problemSetting.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata118">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="2.2781112"
+     inkscape:cx="409.89767"
+     inkscape:cy="685.35267"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="1909"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1249"
+       style="overflow:visible;">
+      <path
+         id="path1247"
+         style="stroke:#ffffff;fill-rule:evenodd;fill:context-stroke;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <rect
+       x="135.04583"
+       y="263.06616"
+       width="83.525456"
+       height="69.474445"
+       id="rect5295" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path3244" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3244-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3244-1" />
+    </marker>
+    <rect
+       x="135.04584"
+       y="263.06616"
+       width="83.525459"
+       height="69.474442"
+       id="rect5295-7" />
+    <rect
+       x="135.04584"
+       y="263.06616"
+       width="83.525459"
+       height="69.474442"
+       id="rect5295-7-4" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17" />
+    </marker>
+    <rect
+       x="135.04584"
+       y="263.06616"
+       width="83.525459"
+       height="69.474442"
+       id="rect5295-8" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-6-6" />
+    </marker>
+    <rect
+       x="135.04584"
+       y="263.06616"
+       width="83.525459"
+       height="69.474442"
+       id="rect5295-8-2" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-1-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-3-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-1-9-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-3-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-1-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-3-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-1-63"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-3-9" />
+    </marker>
+    <rect
+       x="135.04584"
+       y="263.06616"
+       width="83.525459"
+       height="69.474442"
+       id="rect5295-8-6" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-1-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-3-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-1-7-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-3-3-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-1-7-0-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-3-3-2-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-1-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-3-96" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-2-1-0-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-2-3-96-8" />
+    </marker>
+    <rect
+       x="135.04584"
+       y="263.06616"
+       width="83.525459"
+       height="69.474442"
+       id="rect5295-8-6-2" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-4-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-5-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-4-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-5-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-41-4-4-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3244-17-5-3-9" />
+    </marker>
+    <rect
+       x="135.04584"
+       y="263.06616"
+       width="306.78042"
+       height="114.74992"
+       id="rect5295-7-1" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:0.70599997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect874"
+       width="165.24902"
+       height="79.023499"
+       x="28.515562"
+       y="87.48616"
+       ry="18.011089"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#000000;fill-opacity:0.58823529;stroke:none;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 36.892872,151.71903 H 154.09861 l 30.15438,-42.54659 H 67.047252 Z"
+       id="path857-8"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.274408,159.05876 v -15.48062 l 30.140484,-42.35337 v 15.48062 z"
+       id="path857-9"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d9dadb;fill-opacity:0.47058824;stroke:#ffffff;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 37.301631,151.71903 H 154.50737 l 30.15438,-42.54659 H 67.456011 Z"
+       id="path857"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1249)"
+       d="M 53.437155,130.44573 H 63.892836"
+       id="path3221"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-4)"
+       d="m 53.541915,130.33208 -0.04035,9.48975"
+       id="path3221-6"
+       inkscape:transform-center-x="0.0445547"
+       inkscape:transform-center-y="9.3807631"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-7)"
+       d="m 53.501645,130.48751 5.69527,-8.10509"
+       id="path3221-9"
+       inkscape:transform-center-x="-5.4480467"
+       inkscape:transform-center-y="-7.681631"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       id="text5293"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5295);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       x="28.041006"
+       y="56.772907"><tspan
+         x="63.771641"
+         y="134.07945"
+         id="tspan33022"
+         style="font-style:italic;stroke-width:0.26458332">X</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5293-5"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5295-7);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       x="23.668427"
+       y="50.065796"><tspan
+         x="59.399063"
+         y="127.37234"
+         id="tspan33026"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Italic';stroke-width:0.26458332">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,27.959745,22.0511)"
+       id="text5293-5-7"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5295-7-1);fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="135.04492"
+         y="292.18222"
+         id="tspan33042"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Italic'">w, β<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:'arial Italic';baseline-shift:sub"
+   id="tspan33032">x</tspan>, β<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:'arial Italic';baseline-shift:sub"
+   id="tspan33038">y</tspan>=0</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5293-5-4"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5295-7-4);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       x="14.765963"
+       y="69.605904"><tspan
+         x="50.496597"
+         y="146.91245"
+         id="tspan33046"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Italic';stroke-width:0.26458332">Z</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 103.69096,113.32984 V 127.9342"
+       id="path10662"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-2)"
+       d="m 110.18748,115.47661 v 14.60436"
+       id="path10662-0"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-41)"
+       d="m 116.684,117.62338 v 14.60436"
+       id="path10662-5"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-41-4)"
+       d="M 112.42012,148.57404 H 97.815758"
+       id="path10662-5-8"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-41-4-4)"
+       d="M 95.781467,148.59395 H 91.968011"
+       id="path10662-5-8-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g19393"
+       transform="rotate(-57.293077,146.8329,146.81767)"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-41-4-8)"
+         d="M 174.55536,153.54088 H 159.95099"
+         id="path10662-5-8-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-41-4-4-1)"
+         d="m 157.9167,153.56079 h -3.81345"
+         id="path10662-5-8-1-6"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-41-2)"
+       d="m 172.75747,110.30609 v 14.60436"
+       id="path10662-5-7"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-41-2-6)"
+       d="m 177.19801,104.00672 v 14.60436"
+       id="path10662-5-7-5"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-41-2-6-9)"
+       d="M 181.63855,97.707355 V 112.3117"
+       id="path10662-5-7-5-8"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g12192"
+       transform="translate(-3.3045897,-0.41307371)"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,86.70691,41.759677)"
+         id="text5293-2"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5295-8);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+           x="135.04492"
+           y="292.18222"
+           id="tspan33050"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Italic'">p</tspan></text>
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 123.27669,113.3371 h 3.66603"
+         id="path11942"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g12192-1"
+       transform="translate(62.113269,22.209963)"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g16967"
+         transform="translate(-32.013213,-11.979138)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,86.70691,41.759677)"
+           id="text5293-2-4"
+           style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5295-8-6);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+             x="135.04492"
+             y="292.18222"
+             id="tspan33056"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Italic'">m<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:'arial Italic';baseline-shift:sub"
+   id="tspan33054">x</tspan></tspan></text>
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 123.27669,113.3371 h 6.31186"
+           id="path11942-8"
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g12192-1-5"
+       transform="translate(18.97893,38.296413)"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g16967-2"
+         transform="translate(-32.013213,-11.979138)">
+        <g
+           id="g18407"
+           transform="translate(-0.722879,-0.20653686)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,86.70691,41.759677)"
+             id="text5293-2-4-4"
+             style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5295-8-6-2);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+               x="135.04492"
+               y="292.18222"
+               id="tspan33062"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Italic'">m<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:'arial Italic';baseline-shift:sub"
+   id="tspan33060">y</tspan></tspan></text>
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 123.27669,113.3371 h 6.31186"
+             id="path11942-8-0"
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g12908"
+       transform="translate(2.5027473,-2.127477)"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter2_AShearDeformablePlateElement\figures\problemSetting.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g12192-8"
+         transform="translate(45.795792,-11.959101)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,86.70691,42.818011)"
+           id="text5293-2-7"
+           style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5295-8-2);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+             x="135.04492"
+             y="292.18222"
+             id="tspan33066"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Italic'">P</tspan></text>
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 123.27669,113.3371 h 3.66603"
+           id="path11942-4"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

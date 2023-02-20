@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg139678"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="map_to_biunit_domain_quadratic.svg"
+   inkscape:export-filename="C:\Interactive_Teaching_Material\AdvancedFiniteElementMethods\0_BasisFunctions\figures\map_to_biunit_domain_quadratic.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata100">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview139680"
+     pagecolor="#00bfff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8080082"
+     inkscape:cx="419.8165"
+     inkscape:cy="687.76461"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="1909"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs139675">
+    <rect
+       x="169"
+       y="658"
+       width="52"
+       height="56"
+       id="rect62272-6" />
+    <rect
+       x="169"
+       y="658"
+       width="52"
+       height="56"
+       id="rect62272" />
+    <rect
+       x="302"
+       y="722"
+       width="144"
+       height="104"
+       id="rect44842-9" />
+    <rect
+       x="302"
+       y="722"
+       width="144"
+       height="104"
+       id="rect44842" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-9-0-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path34911-5-3-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path34911-5-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-9-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path34911-5-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path34911-5" />
+    </marker>
+    <rect
+       x="105.06804"
+       y="423.13766"
+       width="64.951149"
+       height="71.637299"
+       id="rect3498-3-1-0-5" />
+    <rect
+       x="105.06804"
+       y="423.13766"
+       width="64.951149"
+       height="71.637299"
+       id="rect3498-3-1-0" />
+    <rect
+       x="105.06804"
+       y="423.13766"
+       width="64.951149"
+       height="71.637299"
+       id="rect3498-3-1" />
+    <rect
+       x="105.06804"
+       y="423.13766"
+       width="64.951149"
+       height="71.637299"
+       id="rect3498-3" />
+    <rect
+       x="105.06804"
+       y="423.13766"
+       width="64.951149"
+       height="71.637299"
+       id="rect3498" />
+    <rect
+       x="105.06804"
+       y="423.13766"
+       width="64.951149"
+       height="71.637299"
+       id="rect3498-3-5" />
+    <rect
+       x="105.06804"
+       y="423.13766"
+       width="64.951149"
+       height="71.637299"
+       id="rect3498-3-4" />
+    <rect
+       x="105.06804"
+       y="423.13766"
+       width="64.951149"
+       height="71.637299"
+       id="rect3498-3-1-7" />
+    <rect
+       x="105.06804"
+       y="423.13766"
+       width="64.951149"
+       height="71.637299"
+       id="rect3498-3-1-0-9" />
+    <rect
+       x="302"
+       y="722"
+       width="144"
+       height="104"
+       id="rect44842-7" />
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1150"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path908"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:0.70599997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect874"
+       width="152.62193"
+       height="79.230179"
+       x="38.956181"
+       y="68.96608"
+       ry="18.011089"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.70555598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 52.577223,95.234722 H 84.028487"
+       id="path1471"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.70555598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647"
+       cx="51.862423"
+       cy="95.234734"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.70555598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-5"
+       cx="83.581734"
+       cy="95.234718"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.70555598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 84.028487,95.234722 H 115.47975"
+       id="path1471-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.70555598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-5-2"
+       cx="115.30106"
+       cy="95.234718"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.70555598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-5-4"
+       cx="100.48837"
+       cy="131.56203"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.70555598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.13096,131.56202 h 31.45125"
+       id="path1471-3-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.70555598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-5-2-2"
+       cx="131.93962"
+       cy="131.56203"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.70555598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 115.47975,95.234722 h 31.45127"
+       id="path1471-3-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.70555598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-5-2-8"
+       cx="147.02037"
+       cy="95.234718"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.70555598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 146.93102,95.234722 H 178.3823"
+       id="path1471-3-5-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.70555598;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-5-2-8-0"
+       cx="178.73969"
+       cy="95.234718"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,20.263119,-32.212643)"
+       id="text3496"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3498);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="105.06836"
+         y="459.53149"
+         id="tspan9226"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff">X<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:arial;baseline-shift:sub"
+   id="tspan955">1</tspan></tspan></text>
+    <circle
+       style="fill:#1d774a;fill-opacity:1;stroke:#1d774a;stroke-width:0.70599997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-58"
+       cx="67.722084"
+       cy="95.065491"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,67.135333,-32.212643)"
+       id="text3496-9-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3498-3-4);fill:#1d774a;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="105.06836"
+         y="459.53149"
+         id="tspan9232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#1d774a;fill-opacity:1">X<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:arial;baseline-shift:sub;fill:#1d774a;fill-opacity:1"
+   id="tspan9230">4</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,35.613438,-32.212643)"
+       id="text3496-9-5"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3498-3-5);fill:#1d774a;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="105.06836"
+         y="459.53149"
+         id="tspan9238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#1d774a;fill-opacity:1">X<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:arial;baseline-shift:sub;fill:#1d774a;fill-opacity:1"
+   id="tspan9236">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,98.878918,-32.279822)"
+       id="text3496-9-4-5"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3498-3-1-7);fill:#1d774a;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="105.06836"
+         y="459.53149"
+         id="tspan9244"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#1d774a;fill-opacity:1">X<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:arial;baseline-shift:sub;fill:#1d774a;fill-opacity:1"
+   id="tspan9242">6</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,130.55029,-32.279822)"
+       id="text3496-9-4-9-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3498-3-1-0-9);fill:#1d774a;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="105.06836"
+         y="459.53149"
+         id="tspan9250"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#1d774a;fill-opacity:1">X<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:arial;baseline-shift:sub;fill:#1d774a;fill-opacity:1"
+   id="tspan9248">8</tspan></tspan></text>
+    <circle
+       style="fill:#1d774a;fill-opacity:1;stroke:#1d774a;stroke-width:0.70599997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-58-8"
+       cx="99.441391"
+       cy="95.290344"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#1d774a;fill-opacity:1;stroke:#1d774a;stroke-width:0.70599997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-58-8-0"
+       cx="116.0694"
+       cy="131.46071"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#1d774a;fill-opacity:1;stroke:#1d774a;stroke-width:0.70599997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-58-8-3"
+       cx="131.16071"
+       cy="95.143761"
+       r="1.7870035"
+       inkscape:transform-center-x="0.14604361"
+       inkscape:transform-center-y="-0.14604361"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#1d774a;fill-opacity:1;stroke:#1d774a;stroke-width:0.70599997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1647-58-8-2"
+       cx="162.88002"
+       cy="95.104126"
+       r="1.7870035"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,51.533099,-32.296617)"
+       id="text3496-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3498-3);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="105.06836"
+         y="459.53149"
+         id="tspan9256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff">X<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:arial;baseline-shift:sub"
+   id="tspan958">3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,83.160799,-32.296617)"
+       id="text3496-9-4"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3498-3-1);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="105.06836"
+         y="459.53149"
+         id="tspan9262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff">X<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:arial;baseline-shift:sub"
+   id="tspan961">5</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,114.74652,-32.212643)"
+       id="text3496-9-4-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3498-3-1-0);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="105.06836"
+         y="459.53149"
+         id="tspan9268"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff">X<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:arial;baseline-shift:sub"
+   id="tspan964">7</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,146.41117,-32.296617)"
+       id="text3496-9-4-9-2"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3498-3-1-0-5);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="105.06836"
+         y="459.53149"
+         id="tspan9274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff">X<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:arial;-inkscape-font-specification:arial;baseline-shift:sub"
+   id="tspan967">9</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.35277799;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-9)"
+       d="M 71.489729,100.39412 99.015523,119.6238"
+       id="path34756"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.35277799;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-9-9)"
+       d="m 163.43508,100.04311 -30.4173,19.43622"
+       id="path34756-7"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.35277799;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-9-0)"
+       d="m 102.35409,100.67533 8.21795,18.87465"
+       id="path34756-9"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.35277799;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-9-0-3)"
+       d="m 129.84644,101.13742 -6.97873,18.66811"
+       id="path34756-9-3"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       id="text44840"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect44842);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       x="15.088871"
+       y="-57.340527"><tspan
+         x="94.993034"
+         y="143.31812"
+         id="tspan9278"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.26458332">-1</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text44840-2"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect44842-7);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       x="33.000793"
+       y="-57.343109"><tspan
+         x="112.90496"
+         y="143.31554"
+         id="tspan9280"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">0</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text44840-6"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect44842-9);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       x="46.303185"
+       y="-57.340527"><tspan
+         x="126.20734"
+         y="143.31812"
+         id="tspan9284"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.26458332">+1</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,46.162639,-51.061617)"
+       id="text62270-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect62272-6);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\teaching\advanced_finite_element_methods\Chapter0_Introduction\figures\map_to_parametric_space_1d_quadratic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="169"
+         y="694.39478"
+         id="tspan9292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff">ξ</tspan></text>
+    <text
+       y="-11.034395"
+       x="36.244961"
+       xml:space="preserve"
+       id="text3496-5"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3498);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="64.044304"
+         y="110.54998"
+         id="tspan3125-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff;stroke-width:0.26458332">X</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1150)"
+       d="M 51.920883,100.16163 H 67.646515"
+       id="path1471-33"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.799939,98.245153 v 3.891997"
+       id="path1471-33-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
