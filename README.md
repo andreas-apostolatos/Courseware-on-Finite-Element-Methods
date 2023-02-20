@@ -20,29 +20,30 @@ This is the main document that can be used to navigate to the rest of the Live S
 - **``main_unitTests.mlx``**\
 This is the Live Script that executes the unit tests
 
-- **``0_BasisFunctions/``**\
+- **``1_BasisFunctions/``**\
 This folder contains the Live Script addressing the construction of the Finite Element basis functions
   - **``main_Chapter0_BasisFunctions.mlx``**
+![](https://git@github.com:andreasapostolatos/Courseware-on-Finite-Element-Methods.git/animations/basis_functions.gif)
 
-- **``1_TimoshenkoBeam/``**\
+- **``2_TimoshenkoBeam/``**\
 This folder contains the Live Script addressing the variational formulation and Finite Element approximation of the Timoshenko beam problem
   - **``main_Chapter1_ALinearStraightTimoshenkoBeamElement.mlx``**
 
-- **``2_ReissnerMindlinPlate/``**\
+- **``3_ReissnerMindlinPlate/``**\
 This folder contains the Live Scripts addressing the variational formulation and Finite Element approximation of the Reissner-Mindlin plate problem
   - **``2_ReissnerMindlinPlate.mlx``**
 
-- **``3_TransverseShearLocking/``**\
+- **``4_TransverseShearLocking/``**\
 This folder contains the Live Scripts highlighting and addressing the transverse-shear locking:
   - **``main_Chapter3_Locking_Timoshenko_beam.mlx``**
   - **``main_Chapter3_Locking_ReissnerMindlin_cantilever_plate.mlx``**
   - **``main_Chapter3_Locking_ReissnerMindlin_TwoSidedClampedPlate.mlx``**
 
-- **``4_WeakDirichletBoundaryConditions/``**\
+- **``5_WeakDirichletBoundaryConditions/``**\
 This folder contains the Live Script addressing the weak application of Dirichlet boundary conditions for the Timoshenko beam problem
   - **``main_Chapter4_WeakBoundaryConditions_TimoshenkoBeam.mlx``**
 
-- **``5_HellingerReissnerFormulation/``**\
+- **``6_HellingerReissnerFormulation/``**\
 This folder contains the Live Scripts addressing the variational formulation of the Timoshenko beam problem by means of the Hellinger-Reissner principle
   - **``main_Chapter5_HellingerReissnerFormulation_TimoshenkoBeam.mlx``**
   - **``main_Chapter5_HellingerReissnerFormulation_TimoshenkoBeam_Study.mlx``**
