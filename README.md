@@ -23,7 +23,8 @@ This is the Live Script that executes the unit tests
 - **``1_BasisFunctions/``**\
 This folder contains the Live Script addressing the construction of the Finite Element basis functions
   - **``main_Chapter1_BasisFunctions.mlx``**\
-![basis_functions](https://user-images.githubusercontent.com/93076320/220189039-4c6cf9da-065c-4274-8f32-808254e34b6a.gif)
+![basis_functions](https://user-images.githubusercontent.com/93076320/220189039-4c6cf9da-065c-4274-8f32-808254e34b6a.gif)\
+(This animation can be generated using script ``3_ReissnerMindlinPlate.mlx`` in Chapter 3)
 
 - **``2_TimoshenkoBeam/``**\
 This folder contains the Live Script addressing the variational formulation and Finite Element approximation of the Timoshenko beam problem
