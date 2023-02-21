@@ -87,7 +87,7 @@ This folder contains all auxiliary functions, such the computation of the basis 
 This folder contains all classes and functions needed for the unit testing performed by means of the Live Script ``main_unitTests.mlx``
 
 ## Concepts
-Finite Element Methods, lightweight structures, Timoshenko beam, Reissner-Mindlin plate, transverse-shear locking, high-order basis functions, assumed natural strain, Hellinger-Reissner principle, slenderness study, convergence study, analytical solutions, Live Functions, Local Functions, Symbolic Math Toolbox&trade, plotting, unit-testing, Git-integration, MATLAB Projects
+Finite Element Methods, lightweight structures, Timoshenko beam, Reissner-Mindlin plate, transverse-shear locking, high-order basis functions, assumed natural strain, Hellinger-Reissner principle, slenderness study, convergence study, analytical solutions, Live Functions, Local Functions, Symbolic Math Toolbox, plotting, unit-testing, Git-integration, MATLAB Projects
 
 ## Suggested Audience
 All engineering disciplines, such as, civil engineers, mechanical engineers, etc.
