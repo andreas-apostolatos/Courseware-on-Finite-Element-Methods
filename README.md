@@ -51,15 +51,15 @@ This folder contains the Live Scripts highlighting and addressing the transverse
 This folder contains the Live Script addressing the weak application of Dirichlet boundary conditions for the Timoshenko beam problem
   - **``main_Chapter5_WeakBoundaryConditions_TimoshenkoBeam.mlx``**
 
-<img src="https://user-images.githubusercontent.com/93076320/220362151-fe73acd1-d2c0-4d60-ac30-e645965bcfc2.png" width="30%">
-<img src="https://user-images.githubusercontent.com/93076320/220362165-b120d68a-71e5-45bb-acb0-67af9ee5d8e0.png" width="30%">
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/93076320/220362151-fe73acd1-d2c0-4d60-ac30-e645965bcfc2.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/93076320/220362165-b120d68a-71e5-45bb-acb0-67af9ee5d8e0.png" width="50%">
+</p>
 
 - **``6_HellingerReissnerFormulation/``**\
 This folder contains the Live Scripts addressing the variational formulation of the Timoshenko beam problem by means of the Hellinger-Reissner principle
   - **``main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam.mlx``**
   - **``main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.mlx``**
-
-<!--- <img width="1186" alt="HellingerReissner" src="https://user-images.githubusercontent.com/93076320/220362740-104ea5a5-9b12-4c1f-92b5-a52805b1f966.png"> --->
 
 <img src="https://user-images.githubusercontent.com/93076320/220362740-104ea5a5-9b12-4c1f-92b5-a52805b1f966.png" width="100%">
 <img src="https://user-images.githubusercontent.com/93076320/220363390-79ca64ed-746b-4e46-8907-7a32b768c161.png" width="75%">
