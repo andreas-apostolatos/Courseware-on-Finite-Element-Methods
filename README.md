@@ -21,39 +21,46 @@ This is the main document that can be used to navigate to the rest of the Live S
 This is the Live Script that executes the unit tests
 
 - **``1_BasisFunctions/``**\
-![basis_functions](https://user-images.githubusercontent.com/93076320/220189039-4c6cf9da-065c-4274-8f32-808254e34b6a.gif)\
-(This animation can be generated using script ``main_Chapter3_AShearDeformablePlateElement.mlx`` in Chapter 3)
-
 This folder contains the Live Script addressing the construction of the Finite Element basis functions
   - **``main_Chapter1_BasisFunctions.mlx``**\
+![basis_functions](https://user-images.githubusercontent.com/93076320/220189039-4c6cf9da-065c-4274-8f32-808254e34b6a.gif)\
+(This animation can be generated using script ``main_Chapter3_AShearDeformablePlateElement.mlx`` in Chapter 3)
 
 - **``2_TimoshenkoBeam/``**\
 This folder contains the Live Script addressing the variational formulation and Finite Element approximation of the Timoshenko beam problem
   - **``main_Chapter2_ALinearStraightTimoshenkoBeamElement.mlx``**
+![ALinearStraightTimoshenkoBeamElementDeformation](https://user-images.githubusercontent.com/93076320/220361943-ae52101a-8bb4-4de6-a00a-9e8feb2cd3bd.png)
 
 - **``3_ReissnerMindlinPlate/``**\
 This folder contains the Live Scripts addressing the variational formulation and Finite Element approximation of the Reissner-Mindlin plate problem
   - **``3_ReissnerMindlinPlate.mlx``**
+![AReissnerMindlinPlateElementDeformation](https://user-images.githubusercontent.com/93076320/220361987-0e310c93-f57d-4ca3-bea9-c3ce2c922543.png)
 
 - **``4_TransverseShearLocking/``**\
 This folder contains the Live Scripts highlighting and addressing the transverse-shear locking:
   - **``main_Chapter4_Locking_Timoshenko_beam.mlx``**
   - **``main_Chapter4_Locking_ReissnerMindlin_cantilever_plate.mlx``**
   - **``main_Chapter4_Locking_ReissnerMindlin_TwoSidedClampedPlate.mlx``**
+![TransverseShearLocking](https://user-images.githubusercontent.com/93076320/220362061-f5e029b3-4302-474d-8b8d-12bc04d1c859.png)
 
 - **``5_WeakDirichletBoundaryConditions/``**\
 This folder contains the Live Script addressing the weak application of Dirichlet boundary conditions for the Timoshenko beam problem
   - **``main_Chapter5_WeakBoundaryConditions_TimoshenkoBeam.mlx``**
+![CrossSectionalRotationLagrangeMultipliers](https://user-images.githubusercontent.com/93076320/220362151-fe73acd1-d2c0-4d60-ac30-e645965bcfc2.png)
+![CrossSectionalRotationPenalty](https://user-images.githubusercontent.com/93076320/220362165-b120d68a-71e5-45bb-acb0-67af9ee5d8e0.png)
 
 - **``6_HellingerReissnerFormulation/``**\
 This folder contains the Live Scripts addressing the variational formulation of the Timoshenko beam problem by means of the Hellinger-Reissner principle
   - **``main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam.mlx``**
   - **``main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.mlx``**
+<img width="593" alt="HellingerReissner" src="https://user-images.githubusercontent.com/93076320/220362740-104ea5a5-9b12-4c1f-92b5-a52805b1f966.png">
+![HellingerReissnerDisplacement](https://user-images.githubusercontent.com/93076320/220362686-dae7e781-35ab-44de-a490-d072dd0cc164.png)
 
 - **``AppexA_EfficiencyConsiderations/``**\
 This folder contains the Live Scripts demonstrating the runtime performance speedup by using page-wise computation of the element stiffness matrices and sparse assembly
   - **``main_AppexA_EfficiencyCondiderationsReissnerMindlinPlate.mlx``**
   - **``main_AppexA_EfficiencyCondiderationsTimoshenkoBeam.mlx``**
+![EfficiencyImprovement](https://user-images.githubusercontent.com/93076320/220362807-240cc55a-d464-4482-9da7-168b4b2d4bf8.png)
 
 - **``TimoshenkoBeam/``**\
 This folder contains all functions needed for the Finite Element discretization of the Timoshenko beam problem
@@ -71,13 +78,10 @@ This folder contains all auxiliary functions, such the computation of the basis 
 This folder contains all classes and functions needed for the unit testing performed by means of the Live Script ``main_unitTests.mlx``
 
 ## Concepts
-Finite Element Methods, lightweight structures, Timoshenko beam, Reissner-Mindlin plate, transverse-shear locking, high-order basis functions, assumed natural strain, Hellinger-Reissner principle, slenderness study, convergence study, analytical solutions, Live Functions, Local Functions, Symbolic Math Toolbox&trade, plotting, unit-testing, Git-integration, ...
+Finite Element Methods, lightweight structures, Timoshenko beam, Reissner-Mindlin plate, transverse-shear locking, high-order basis functions, assumed natural strain, Hellinger-Reissner principle, slenderness study, convergence study, analytical solutions, Live Functions, Local Functions, Symbolic Math Toolbox&trade, plotting, unit-testing, Git-integration, MATLAB Projects
 
 ## Suggested Audience
 All engineering disciplines, such as, civil engineers, mechanical engineers, etc.
-
-## Time
-20 minutes
 
 ## Workflow
 Firstly, open the project file CoursewareonFiniteElementMethods.prj to have all the folder dependencies resolved. Then, open Live Script **main.mlx**, go to Section **Quick guide**, select any of the desirable Live Scripts from the list, and hit Run!
