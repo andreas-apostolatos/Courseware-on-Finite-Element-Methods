@@ -60,7 +60,7 @@ This folder contains the Live Scripts addressing the variational formulation of 
   - **``main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.mlx``**
 
 <img width="593" alt="HellingerReissner" src="https://user-images.githubusercontent.com/93076320/220362740-104ea5a5-9b12-4c1f-92b5-a52805b1f966.png">
-![HellingerReissnerDisplacement](https://user-images.githubusercontent.com/93076320/220362686-dae7e781-35ab-44de-a490-d072dd0cc164.png)
+![HellingerReissnerDisplacement](https://user-images.githubusercontent.com/93076320/220363390-79ca64ed-746b-4e46-8907-7a32b768c161.png)
 
 - **``AppexA_EfficiencyConsiderations/``**\
 This folder contains the Live Scripts demonstrating the runtime performance speedup by using page-wise computation of the element stiffness matrices and sparse assembly
