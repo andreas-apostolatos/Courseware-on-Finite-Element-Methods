@@ -1,7 +1,7 @@
 ## Courseware on Finite Element Methods
 This courseware on Finite Element Methods addresses standard and advanced Finite Element formulations for shear-deformable lightweight structures of the Timoshenko beam and Reissner-Minldin plate types.\
 \
-Moreover, the interactive courseware uses extensively the MATLAB&reg; Live Editor and the Symbolic Math Toolbox&trade; for the development and the presentation.\
+Moreover, the interactive courseware uses extensively the [MATLAB&reg](https://www.mathworks.com/products/matlab.html); Live Editor and the [Symbolic Math Toolbox&trade](https://www.mathworks.com/products/symbolic.html); for the development and the presentation.\
 \
 Additionally, a comprehensive (but not exhaustive) set of MATLAB Grader assignments for this material exist. These assignments touch upon the topics mentioned in each of the chapters in the courseware syllabus. Please reach out to Andreas Apostolatos ([aapostol@mathworks.com](mailto:aapostol@mathworks.com)) to request access to the underlying MATLAB Grader assignments.
 
@@ -87,7 +87,7 @@ This folder contains all auxiliary functions, such the computation of the basis 
 This folder contains all classes and functions needed for the unit testing performed by means of the Live Script ``main_unitTests.mlx``
 
 ## Concepts
-Finite Element Methods, lightweight structures, Timoshenko beam, Reissner-Mindlin plate, transverse-shear locking, high-order basis functions, assumed natural strain, Hellinger-Reissner principle, slenderness study, convergence study, analytical solutions, Live Functions, Local Functions, Symbolic Math Toolbox, plotting, unit-testing, Git-integration, MATLAB Projects
+Finite Element Methods, lightweight structures, Timoshenko beam, Reissner-Mindlin plate, transverse-shear locking, high-order basis functions, assumed natural strain, Hellinger-Reissner principle, slenderness study, convergence study, analytical solutions, [Live Functions](https://www.mathworks.com/help/matlab/matlab_prog/create-live-functions.html), [Local Functions](https://www.mathworks.com/help/matlab/matlab_prog/local-functions.html), [Symbolic Math Toolbox](https://www.mathworks.com/products/symbolic.html), plotting, [unit-testing](https://www.mathworks.com/help/matlab/matlab_prog/ways-to-write-unit-tests.html), [MATLAB Projects](https://www.mathworks.com/help/matlab/projects.html), [Git-integration](https://www.mathworks.com/help/matlab/matlab_prog/set-up-git-source-control.html)
 
 ## Suggested Audience
 All engineering disciplines, such as, civil engineers, mechanical engineers, etc.
