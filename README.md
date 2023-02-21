@@ -6,7 +6,7 @@ Moreover, the interactive courseware uses extensively the MATLAB&reg; Live Edito
 Additionally, a comprehensive (but not exhaustive) set of MATLAB Grader assignments for this material exist. These assignments touch upon the topics mentioned in each of the chapters in the courseware syllabus. Please reach out to Andreas Apostolatos ([aapostol@mathworks.com](aapostol@mathworks.com)) to request access to the underlying MATLAB Grader assignments.
 
 ## Owner/s
-Andreas Apostolatos, PhD ([aapostol@mathworks.com](aapostol@mathworks.com))
+Andreas Apostolatos, PhD ([aapostol@mathworks.com](mailto:aapostol@mathworks.com))
 
 ## Contents
 The repository contains the following Live Scripts and folders:
