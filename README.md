@@ -105,7 +105,8 @@ Alternatively, start the project and then run the file ``main_unitTests.mlx``
 R2022b
 
 ## TODO
-List out whatever you think is yet to be done here. Maybe someone else already has done this and can share it with you.
+- Add the Finite Element discretization of the Euler-Bernoulli beam using the third order Hermitian basis functions
+- Add structural dynamics
 
 ## Revision History
-Add a short description of your changes here.
+
