@@ -60,6 +60,7 @@ This folder contains the Live Scripts addressing the variational formulation of 
   - **``main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.mlx``**
 
 <img width="593" alt="HellingerReissner" src="https://user-images.githubusercontent.com/93076320/220362740-104ea5a5-9b12-4c1f-92b5-a52805b1f966.png">
+
 ![HellingerReissnerDisplacement](https://user-images.githubusercontent.com/93076320/220363390-79ca64ed-746b-4e46-8907-7a32b768c161.png)
 
 - **``AppexA_EfficiencyConsiderations/``**\
