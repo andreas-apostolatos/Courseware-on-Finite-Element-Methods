@@ -3,7 +3,7 @@ This courseware on Finite Element Methods addresses standard and advanced Finite
 \
 Moreover, the interactive courseware uses extensively the MATLAB&reg; Live Editor and the Symbolic Math Toolbox&trade; for the development and the presentation.\
 \
-Additionally, a comprehensive (but not exhaustive) set of MATLAB Grader assignments for this material exist. These assignments touch upon the topics mentioned in each of the chapters in the courseware syllabus. Please reach out to Andreas Apostolatos ([aapostol@mathworks.com](aapostol@mathworks.com)) to request access to the underlying MATLAB Grader assignments.
+Additionally, a comprehensive (but not exhaustive) set of MATLAB Grader assignments for this material exist. These assignments touch upon the topics mentioned in each of the chapters in the courseware syllabus. Please reach out to Andreas Apostolatos ([aapostol@mathworks.com](mailto:aapostol@mathworks.com)) to request access to the underlying MATLAB Grader assignments.
 
 ## Owner/s
 Andreas Apostolatos, PhD ([aapostol@mathworks.com](mailto:aapostol@mathworks.com))
@@ -69,7 +69,7 @@ This folder contains the Live Scripts demonstrating the runtime performance spee
   - **``main_AppexA_EfficiencyCondiderationsReissnerMindlinPlate.mlx``**
   - **``main_AppexA_EfficiencyCondiderationsTimoshenkoBeam.mlx``**
 
-<img src="https://user-images.githubusercontent.com/93076320/220362807-240cc55a-d464-4482-9da7-168b4b2d4bf8.png" width="50%">
+<img src="https://user-images.githubusercontent.com/93076320/220362807-240cc55a-d464-4482-9da7-168b4b2d4bf8.png" width="55%">
 
 - **``TimoshenkoBeam/``**\
 This folder contains all functions needed for the Finite Element discretization of the Timoshenko beam problem
