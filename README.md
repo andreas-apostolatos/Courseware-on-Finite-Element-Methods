@@ -53,7 +53,7 @@ This folder contains the Live Script addressing the weak application of Dirichle
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/93076320/220362151-fe73acd1-d2c0-4d60-ac30-e645965bcfc2.png" width="45%">
-  <img src="https://user-images.githubusercontent.com/93076320/220367398-9ed95db7-bca1-4e49-9851-7eef4acad5c6.png" width="48%"> 
+  <img src="https://user-images.githubusercontent.com/93076320/220367398-9ed95db7-bca1-4e49-9851-7eef4acad5c6.png" width="46%"> 
 </p>
 
 - **``6_HellingerReissnerFormulation/``**\
