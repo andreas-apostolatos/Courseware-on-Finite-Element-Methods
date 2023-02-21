@@ -52,8 +52,8 @@ This folder contains the Live Script addressing the weak application of Dirichle
   - **``main_Chapter5_WeakBoundaryConditions_TimoshenkoBeam.mlx``**
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/93076320/220362151-fe73acd1-d2c0-4d60-ac30-e645965bcfc2.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/93076320/220362165-b120d68a-71e5-45bb-acb0-67af9ee5d8e0.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/93076320/220362151-fe73acd1-d2c0-4d60-ac30-e645965bcfc2.png" width="40%">
+  <img src="https://user-images.githubusercontent.com/93076320/220362165-b120d68a-71e5-45bb-acb0-67af9ee5d8e0.png" width="40%">
 </p>
 
 - **``6_HellingerReissnerFormulation/``**\
@@ -62,14 +62,14 @@ This folder contains the Live Scripts addressing the variational formulation of 
   - **``main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.mlx``**
 
 <img src="https://user-images.githubusercontent.com/93076320/220362740-104ea5a5-9b12-4c1f-92b5-a52805b1f966.png" width="100%">
-<img src="https://user-images.githubusercontent.com/93076320/220363390-79ca64ed-746b-4e46-8907-7a32b768c161.png" width="75%">
+<img src="https://user-images.githubusercontent.com/93076320/220363390-79ca64ed-746b-4e46-8907-7a32b768c161.png" width="50%">
 
 - **``AppexA_EfficiencyConsiderations/``**\
 This folder contains the Live Scripts demonstrating the runtime performance speedup by using page-wise computation of the element stiffness matrices and sparse assembly
   - **``main_AppexA_EfficiencyCondiderationsReissnerMindlinPlate.mlx``**
   - **``main_AppexA_EfficiencyCondiderationsTimoshenkoBeam.mlx``**
 
-<img src="https://user-images.githubusercontent.com/93076320/220362807-240cc55a-d464-4482-9da7-168b4b2d4bf8.png" width="75%">
+<img src="https://user-images.githubusercontent.com/93076320/220362807-240cc55a-d464-4482-9da7-168b4b2d4bf8.png" width="50%">
 
 - **``TimoshenkoBeam/``**\
 This folder contains all functions needed for the Finite Element discretization of the Timoshenko beam problem
