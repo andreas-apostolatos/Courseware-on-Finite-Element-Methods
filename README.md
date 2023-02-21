@@ -35,7 +35,7 @@ This folder contains the Live Script addressing the variational formulation and 
 
 - **``3_ReissnerMindlinPlate/``**\
 This folder contains the Live Scripts addressing the variational formulation and Finite Element approximation of the Reissner-Mindlin plate problem
-  - **``3_ReissnerMindlinPlate.mlx``**
+  - **``main_Chapter3_AShearDeformablePlateElement.mlx``**
 
 <img src="https://user-images.githubusercontent.com/93076320/220361987-0e310c93-f57d-4ca3-bea9-c3ce2c922543.png" width="50%">
 
