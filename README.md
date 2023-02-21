@@ -32,7 +32,7 @@ This folder contains the Live Script addressing the variational formulation and 
   - **``main_Chapter2_ALinearStraightTimoshenkoBeamElement.mlx``**
 
 <!---![ALinearStraightTimoshenkoBeamElementDeformation](https://user-images.githubusercontent.com/93076320/220361943-ae52101a-8bb4-4de6-a00a-9e8feb2cd3bd.png){width=75%} --->
-<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/93076320/220361943-ae52101a-8bb4-4de6-a00a-9e8feb2cd3bd.png)" width="75">
+<img src="https://user-images.githubusercontent.com/93076320/220361943-ae52101a-8bb4-4de6-a00a-9e8feb2cd3bd.png" width="75%">
 
 - **``3_ReissnerMindlinPlate/``**\
 This folder contains the Live Scripts addressing the variational formulation and Finite Element approximation of the Reissner-Mindlin plate problem
