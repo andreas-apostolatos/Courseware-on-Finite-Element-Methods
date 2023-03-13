@@ -30,7 +30,7 @@ This is the Live Script that executes the unit tests
 
 - **``1_BasisFunctions/``**\
 This folder contains the Live Script addressing the construction of the Finite Element basis functions
-  - **``main_Chapter1_BasisFunctions.mlx``**\
+  - **``main_Chapter1_BasisFunctions.mlx``**
 
 ![basis_functions](https://user-images.githubusercontent.com/93076320/220189039-4c6cf9da-065c-4274-8f32-808254e34b6a.gif)\
 (This animation can be generated using script ``main_Chapter3_AShearDeformablePlateElement.mlx`` in Chapter 3)
