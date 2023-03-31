@@ -35,15 +35,15 @@ This folder contains the Live Script addressing the variational formulation and 
 
 - **``3_ReissnerMindlinPlate/``**\
 This folder contains the Live Scripts addressing the variational formulation and Finite Element approximation of the Reissner-Mindlin plate problem
-  - **``3_ReissnerMindlinPlate.mlx``**
+  - **``main_Chapter3_AShearDeformablePlateElement.mlx``**
 
 <img src="https://user-images.githubusercontent.com/93076320/220361987-0e310c93-f57d-4ca3-bea9-c3ce2c922543.png" width="50%">
 
 - **``4_TransverseShearLocking/``**\
 This folder contains the Live Scripts highlighting and addressing the transverse-shear locking:
-  - **``main_Chapter4_Locking_Timoshenko_beam.mlx``**
-  - **``main_Chapter4_Locking_ReissnerMindlin_cantilever_plate.mlx``**
-  - **``main_Chapter4_Locking_ReissnerMindlin_TwoSidedClampedPlate.mlx``**
+  - **``main_Chapter4_TransverseShearLocking_TimoshenkoBeam.mlx``**
+  - **``main_Chapter4_Locking_ReissnerMindlinCantileverPlate.mlx``**
+  - **``main_Chapter4_Locking_ReissnerMindlinSquarePlate.mlx``**
 
 <img src="https://user-images.githubusercontent.com/93076320/220362061-f5e029b3-4302-474d-8b8d-12bc04d1c859.png" width="50%">
 
