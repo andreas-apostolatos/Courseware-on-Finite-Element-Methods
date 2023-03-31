@@ -1,9 +1,17 @@
 ## Courseware on Finite Element Methods
+
+[![View Courseware on Finite Element Methods on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/125135-courseware-on-finite-element-methods) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Courseware-on-Finite-Element-Methods&project=CoursewareonFiniteElementMethods.prj)
+
+**Curriculum Module**  
+_Created with R2021b. Compatible with R2021b and later releases._  
+
+## Description ##
+
 This courseware on Finite Element Methods addresses standard and advanced Finite Element formulations for shear-deformable lightweight structures of the Timoshenko beam and Reissner-Minldin plate types.\
 \
 Moreover, the interactive courseware uses extensively the [MATLAB&reg;](https://www.mathworks.com/products/matlab.html) Live Editor and the [Symbolic Math Toolbox&trade;](https://www.mathworks.com/products/symbolic.html) for the development and the presentation.\
 \
-Additionally, a comprehensive (but not exhaustive) set of MATLAB Grader assignments for this material exist. These assignments touch upon the topics mentioned in each of the chapters in the courseware syllabus. Please reach out to Andreas Apostolatos ([aapostol@mathworks.com](mailto:aapostol@mathworks.com)) to request access to the underlying MATLAB Grader assignments.
+Additionally, a comprehensive (but not exhaustive) set of [MATLAB Grader](https://grader.mathworks.com/) assignments for this material exist. These assignments touch upon the topics mentioned in each of the chapters in the courseware syllabus. Please reach out to Andreas Apostolatos ([aapostol@mathworks.com](mailto:aapostol@mathworks.com)) to request access to the underlying MATLAB Grader assignments.
 
 ## Owner/s
 Andreas Apostolatos, PhD ([aapostol@mathworks.com](mailto:aapostol@mathworks.com))
@@ -22,7 +30,7 @@ This is the Live Script that executes the unit tests
 
 - **``1_BasisFunctions/``**\
 This folder contains the Live Script addressing the construction of the Finite Element basis functions
-  - **``main_Chapter1_BasisFunctions.mlx``**\
+  - **``main_Chapter1_BasisFunctions.mlx``**
 
 ![basis_functions](https://user-images.githubusercontent.com/93076320/220189039-4c6cf9da-065c-4274-8f32-808254e34b6a.gif)\
 (This animation can be generated using script ``main_Chapter3_AShearDeformablePlateElement.mlx`` in Chapter 3)
