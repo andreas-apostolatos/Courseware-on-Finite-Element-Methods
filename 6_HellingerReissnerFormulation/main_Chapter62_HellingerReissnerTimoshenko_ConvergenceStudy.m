@@ -1,9 +1,9 @@
 %[text] %[text:anchor:H_733CD629] # Convergence study on transverse shear-locking
-%[text:tableOfContents]{"heading":"**Table of Contents**"}
+%[text:tableOfContents]{"heading":"Table of Contents"}
 %[text] In this section it is shown how the rate of the mesh convergence study is reduced down due to transverse shear locking. The effect gets more pronounced with increased slenderness of the beam.
 %[text] 
-%[text] Go to [THIS](file:./main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.mlx:H_0DEDCD16) Section in the main driver script *Transverse-shear locking due incompatible discretization spaces*
-%[text] Go to [PREVIOUS](file:./main_Chapter61_HellingerReissnerTimoshenko_ShearForces.mlx:H_4E46353A) Section *Transverse-shear locking due incompatible discretization spaces*
+%[text] Go to [THIS](file:.\main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.m) Section in the main driver script *Transverse-shear locking due incompatible discretization spaces*
+%[text] Go to [PREVIOUS](file:.\main_Chapter61_HellingerReissnerTimoshenko_ShearForces.m) Section *Transverse-shear locking due incompatible discretization spaces*
 %[text] 
 %[text] **Author: Andreas Apostolatos, PhD (aapostol@mathworks.com)**
 %[text] **Date: 20.02.2023**
@@ -173,7 +173,7 @@ xlabel("No. elements") %[output:2c6fb702]
 ylabel("$w (x = L)$", "Interpreter","latex") %[output:2c6fb702]
 title("Convergence study") %[output:2c6fb702]
 %[text] ![](text:image:5384) **Try**
-%[text] Change the value of the thickness by means of the provided slider in this [code section](file:./main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.mlx:M_3C24813C). Change its value to the extrems and the script is going to be automatically executed.
+%[text] Change the value of the thickness by means of the provided slider in code section **Problem parameters** of [this](file:.\main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.m) script. Change its value to the extrems and the script is going to be automatically executed.
 %[text] ![](text:image:8234) **Reflect**
 %[text] How do the convergence curves change for different values of the thickness and why?
 

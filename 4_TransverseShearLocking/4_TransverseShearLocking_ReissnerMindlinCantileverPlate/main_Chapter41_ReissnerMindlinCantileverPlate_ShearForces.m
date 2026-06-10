@@ -177,6 +177,7 @@ qxEx(X) = subs(qxEx, {alphaScf, Gsym, tsym, Lsym, psym, ...
 %%
 %[text] %[text:anchor:H_C87A9890] ## Shear force distribution along the X-direction at the middle of the plate
 numVertices = numel(mshQ1.nodes(:, 1));
+figure,
 plotMesh2d(mshQ1, numVertices, false); %[output:1cca0ff9]
 hold on; %[output:1cca0ff9]
 plot3(xPts, yPts, qxPts(:, 1), 'b-', 'LineWidth',2); %[output:1cca0ff9]

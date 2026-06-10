@@ -141,6 +141,7 @@ end
 %%
 %[text] %[text:anchor:H_C87A9890] ## Shear force distribution along the *X*-direction at the middle of the plate
 numVertices = numel(mshQ1.nodes(:, 1));
+figure,
 plotMesh2d(mshQ1, numVertices, false); %[output:795720ad]
 hold on; %[output:795720ad]
 plot3(xPts, yPts, qxPts(:, 1), 'b-', 'LineWidth',2); %[output:795720ad]
