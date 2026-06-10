@@ -6,14 +6,14 @@
 %[text] Go to [PREVIOUS](file:.\main_Chapter61_HellingerReissnerTimoshenko_ShearForces.m) Section *Transverse-shear locking due incompatible discretization spaces*
 %[text] 
 %[text] **Author: Andreas Apostolatos, PhD (aapostol@mathworks.com)**
-%[text] **Date: 20.02.2023**
+%[text] **Date: 10.06.2026**
 %%
 %[text] %[text:anchor:H_7236A159] ## Preamble
 vars = ["numEl" "wEx" "X0" "XL" "choiceShapeFunctionsU" ...
     "choiceShapeFunctionsLM" "propStr" ...
     "computeBasisFunctionsAndDerivsHRU"];
-str = "This mlx-file should be run from parent mlx-file " + ...
-    "main_Chapter5_HellingerReissnerFormulation_TimoshenkoBeam_Study.mlx";
+str = "This m-file should be ran from parent m-file " + ...
+    "main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.m";
 for ii = 1:length(vars)
     if ~exist(vars(ii), 'var') 
         error(strcat("Variable ", vars(ii), " is not defined. ", str));

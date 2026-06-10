@@ -17,7 +17,7 @@
 %[text] [NEXT Chapter](file:.\main_Chapter6_HellingerReissnerFormulation_TimoshenkoBeam_Study.m) *Hellinger-Reissner Formulation for the Timoshenko Beam Boundary Value Problem - A Study*
 %[text] 
 %[text] **Author: Andreas Apostolatos, PhD (aapostol@mathworks.com)**
-%[text] **Date: 20.02.2023**
+%[text] **Date: 10.06.2026**
 %%
 %[text] %[text:anchor:H_46B6D144] ## Preamble
 clc;

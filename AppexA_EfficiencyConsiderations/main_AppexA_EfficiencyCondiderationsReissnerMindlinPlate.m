@@ -3,7 +3,7 @@
 %[text] In this appendix it is demonstrated how to leverage [`sparse`](https://www.mathworks.com/help/matlab/ref/sparse.html)-matrices and [page-wise operations](https://blogs.mathworks.com/loren/2021/01/14/paged-matrix-functions/) in [MATLAB](https://www.mathworks.com/products/matlab.html)® to speed-up the computation, assembly and solution of the linear equation systems resulting from the discretization of the [Reissner-Mindlin plate](https://en.wikipedia.org/wiki/Mindlin%E2%80%93Reissner_plate_theory) *Boundary Value Problem* (BVP).
 %[text] 
 %[text] **Author: Andreas Apostolatos, PhD (aapostol@mathworks.com)**
-%[text] **Date: 20.02.2023**
+%[text] **Date: 10.06.2026**
 %%
 %[text] %[text:anchor:H_BF2E5D07] ## Preamble
 clc;

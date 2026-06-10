@@ -6,12 +6,12 @@
 %[text] Go to [PREVIOUS](file:.\main_Chapter13_TwoDimensionalBilinearBasisFunctions.m) Section *Two-dimensional bilinear basis functions*
 %[text] 
 %[text] **Author: Dr.-Ing. Andreas Apostolatos**
-%[text] **Date: 22.12.2022**
+%[text] **Date: 10.06.2026**
 %%
 %[text] %[text:anchor:H_F203EBCC] ## Preamble
 vars = "mshQ2";
-str = "This mlx-file should be run from parent mlx-file " + ...
-    "main_Chapter01_OneDimensionalLinearBasisFunctions.mlx";
+str = "This m-file should be ran from parent m-file " + ...
+    "main_Chapter1_BasisFunctions.m";
 for ii = 1:length(vars)
     if ~exist(vars(ii), 'var') 
         error(strcat("Variable ", vars(ii), " is not defined. ", str));

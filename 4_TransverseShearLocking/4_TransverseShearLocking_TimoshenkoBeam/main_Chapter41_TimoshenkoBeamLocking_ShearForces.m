@@ -1,5 +1,5 @@
 %[text] %[text:anchor:T_CCE08EC4] # Transverse-shear locking due incompatible discretization spaces
-%[text:tableOfContents]{"heading":"**Table of Contents**"}
+%[text:tableOfContents]{"heading":"Table of Contents"}
 %[text] Using the same polynomials basis functions for the discretization of the vertical displacement and rotation fields leads to a discretization space for the transverse shear forces that by construction does not contain zero transverse shear forces, namely: $\\gamma = \\frac{\\text{d}w}{\\text{d}x} + \\beta = \\sum\_{i=1}^n \\overbrace{\\frac{\\text{d}N\_i^w(\\xi)}{\\text{d}x}}^{\\text{constant}} w\_i + \\sum\_{i = 1}^n \\overbrace{N\_i^{\\beta}(\\xi)}^{\\text{linear}} \\beta\_i$
 %[text] This fact is a direct consequence of the summation of piecewise polynomial functions with their derivatives which cannot be identically zero. The residual transverse-shear strains are then scaled by the material and geometric parameters to obtain the transverse-shear forces, namely:
 %[text] $Q = \\alpha G A \\gamma = \\alpha G A \\overbrace{\\left(\\frac{\\text{d} w}{\\text{d} x} + \\beta\\right)}^{\\gamma}$
@@ -10,12 +10,12 @@
 %[text] Go to [NEXT](file:./main_Chapter42_TimoshenkoBeamLocking_ConvergenceStudy.mlx:H_733CD629) Section *Convergence study on transverse shear-locking*
 %[text] 
 %[text] **Author: Andreas Apostolatos, PhD (aapostol@mathworks.com)**
-%[text] **Date: 20.02.2023**
+%[text] **Date: 10.06.2026**
 %%
 %[text] %[text:anchor:H_7236A159] ## Preamble
 vars = ["mshL1" "mshL2" "numElL1" "NL1" "NL2" "propStr" "numPts"];
-str = "This mlx-file should be run from parent mlx-file " + ...
-    "main_Chapter3_Locking_TimoshenkoBeam.mlx";
+str = "This m-file should be ran from parent m-file " + ...
+    "main_Chapter4_TransverseShearLocking_TimoshenkoBeam.m";
 for ii = 1:length(vars)
     if ~exist(vars(ii), 'var') 
         error(strcat("Variable ", vars(ii), " is not defined. ", str));

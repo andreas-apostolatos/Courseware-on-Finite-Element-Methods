@@ -1,5 +1,5 @@
 %[text] %[text:anchor:H_19270AFB] # Slenderness study on transverse shear-locking
-%[text:tableOfContents]{"heading":"**Table of Contents**"}
+%[text:tableOfContents]{"heading":"Table of Contents"}
 %[text] In this section it is investigated the behavior of the convergence as the slenderness (length over thickness) goes to infinity $L/t \\rightarrow \\infty$, namely, as the thickness goes to zero $t \\rightarrow 0$. As the thickness goes to zero, the spurious forces due to transverse shear locking increase, leading to an ever increasing artificially stiffening behavior. To keep the solution constant the same scaling factor is applied both to the applied force and the thickness, so that the ratio $p/t$, and thus the resulting deformation, remains constant.
 %[text] %[text:anchor:H_CDB2E85A] ## 
 %[text] Go to [THIS](file:./main_Chapter4_Locking_ReissnerMindlinSquarePlate.mlx:H_7F0E05AB) Section in the main driver script *Transverse Shear Locking in Shear-Deformable Plates* *`-`* *Cantilever Plate Subject to Vertical Distributed Load*
@@ -7,13 +7,13 @@
 %[text] Go to [NEXT](file:./main_Chapter43_ReissnerMindlinSquarePlate_ConvergenceStudy.mlx:H_4E8CB83F) Section *Convergence study on transverse shear-locking*
 %[text] 
 %[text] **Author: Andreas Apostolatos, PhD (aapostol@mathworks.com)**
-%[text] **Date: 20.02.2023**
+%[text] **Date: 10.06.2026**
 %%
 %[text] %[text:anchor:H_F203EBCC] ## Preamble
 vars = ["propStr" "XLx" "mshQ1" "mshQ2" "numNodesElQ1" ...
     "numNodesElQ2" "numDOFsQ1" "numDOFsQ2" "freeDOFsQ1" "freeDOFsQ2"];
-str = "This mlx-file should be run from parent " + ...
-    "main_Chapter3_Locking_ReissnerMindlin_SquarePlate.mlx";
+str = "This m-file should be ran from parent " + ...
+    "main_Chapter4_Locking_ReissnerMindlinSquarePlate.m";
 for ii = 1:length(vars)
     if ~exist(vars(ii), 'var') 
         error(strcat("Variable ", vars(ii), " is not defined. ", str));

@@ -12,7 +12,7 @@
 %[text] [NEXT](file:..\2_TimoshenkoBeam\main_Chapter2_ALinearStraightTimoshenkoBeamElement.m) Chapter *Finite Element Formulation of the linear Timoshenko beam*
 %[text] 
 %[text] **Author: Andreas Apostolatos, PhD (aapostol@mathworks.com)**
-%[text] **Date: 20.02.2023**
+%[text] **Date: 10.06.2026**
 %%
 %[text] %[text:anchor:H_159F79E6] ## Preamble
 %[text] %[text:anchor:H_7C9F7FE4] ### Clear command window, workspace and close all figures

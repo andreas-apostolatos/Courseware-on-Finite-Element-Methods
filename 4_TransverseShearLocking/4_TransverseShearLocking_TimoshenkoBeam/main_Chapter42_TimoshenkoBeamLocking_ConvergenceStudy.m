@@ -1,17 +1,17 @@
 %[text] %[text:anchor:H_733CD629] # Convergence study on transverse shear-locking
-%[text:tableOfContents]{"heading":"**Table of Contents**"}
+%[text:tableOfContents]{"heading":"Table of Contents"}
 %[text] In this section it is shown how the rate of the mesh convergence study is reduced down due to transverse shear locking. The effect gets more pronounced the more slender the beam is.
 %[text] 
 %[text] Go to [THIS](file:./main_Chapter4_TransverseShearLocking_TimoshenkoBeam.mlx:H_D14B8475) Section in the main driver script *Transverse-Shear Locking in Timoshenko beam elements - Cantilever Beam Subject to Vertical Distributed Load*
 %[text] Go to [PREVIOUS](file:./main_Chapter41_TimoshenkoBeamLocking_ShearForces.mlx:T_CCE08EC4) Section *Transverse-shear locking due incompatible discretization spaces*
 %[text] 
 %[text] **Author: Andreas Apostolatos, PhD (aapostol@mathworks.com)**
-%[text] **Date: 20.02.2023**
+%[text] **Date: 10.06.2026**
 %%
 %[text] %[text:anchor:H_7236A159] ## Preamble
 vars = ["X0" "XL" "propStr" "numEl" "propStrEB"];
-str = "This mlx-file should be run from parent mlx-file " + ...
-    "main_Chapter3_Locking_TimoshenkoBeam.mlx";
+str = "This m-file should be ran from parent m-file " + ...
+    "main_Chapter4_TransverseShearLocking_TimoshenkoBeam.mlx";
 for ii = 1:length(vars)
     if ~exist(vars(ii), 'var') 
         error(strcat("Variable ", vars(ii), " is not defined. ", str));

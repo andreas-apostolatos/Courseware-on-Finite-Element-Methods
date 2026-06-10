@@ -6,13 +6,13 @@
 %[text] Go to [PREVIOUS](file:.\main_Chapter42_ReissnerMindlinSquarePlate_SlendernessStudy.m) Section *Slenderness study on transverse shear-locking*
 %[text] 
 %[text] **Author: Andreas Apostolatos, PhD (aapostol@mathworks.com)**
-%[text] **Date: 20.02.2023**
+%[text] **Date: 10.06.2026**
 %%
 %[text] %[text:anchor:H_F203EBCC] ## Preamble
 vars = ["numRef" "wKirchhoff" "X0" "XLx" "Y0" "YLy" ...
     "numNodesElQ1" "numNodesElQ2" "xyPostProc" "propStr"];
-str = "This mlx-file should be run from parent mlx-file " + ...
-    "main_Chapter3_Locking_ReissnerMindlinSquarePlate.mlx";
+str = "This m-file should be run from parent m-file " + ...
+    "main_Chapter4_Locking_ReissnerMindlinSquarePlate.m";
 for ii = 1:length(vars)
     if ~exist(vars(ii), 'var') 
         error(strcat("Variable ", vars(ii), " is not defined. ", str));
